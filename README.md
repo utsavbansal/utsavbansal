@@ -41,9 +41,9 @@ Welcome to my GitHub! I'm a Full Stack Developer with a background in computer s
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-## Projects 🛠️
 <!--
+## Projects 🛠️
+
 ### Project Name 1 - Brief Description
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used in the project.
