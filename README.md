@@ -51,9 +51,9 @@ interested_in:
 ## 🏆 Achievements:
 - 🏆 **GATE 2021:** Secured **All India Rank 965** in GATE CS Paper.
 - 🏆 **GATE 2020:** Secured **All India Rank 1155** in GATE CS Paper.
-- 🥇 **NPTEL ELITE Topper:** Ranked in the **Top 5%** in the Topper list and honored as **Elite** with an aggregate score of **88%**.  
+- 🥇 **NPTEL ELITE Topper: Programming in CPP (IIT Kharagpur)** Ranked in the **Top 5%** in the Topper list and honored as **Elite** with an aggregate score of **88%**.  
   [View Certificate](https://archive.nptel.ac.in/content/noc/NOC17/SEM2/Ecertificates/106/noc17-cs24/Course/NPTEL17CS24S2250087171013177.jpg)
-- 🥈 **NPTEL Elite:** Honored as **Elite** with an aggregate score of **80%**.  
+- 🥈 **NPTEL Elite: Programming, DataStructue and Algorithms in Python (IIT Madras)** Honored as **Elite** with an aggregate score of **80%**.  
   [View Certificate](https://archive.nptel.ac.in/content/noc/NOC16/SEM2/Ecertificates/106/noc16-cs11/Course/NPTEL16CS1125560037.jpg)
 
 
