@@ -58,9 +58,7 @@ interested_in:
   <li>🥈 <strong>NPTEL Elite: Programming, Data Structure and Algorithms in Python (IIT Madras)</strong> Honored as <strong>Elite</strong> with an aggregate score of <strong>80%</strong>.<br>
     <a href="https://archive.nptel.ac.in/content/noc/NOC16/SEM2/Ecertificates/106/noc16-cs11/Course/NPTEL16CS1125560037.jpg" target="_blank">View Certificate</a>
   </li>
-  <li>🏅 <strong>AWS Certified Cloud Practitioner</strong> Earned AWS Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud concepts, security, technology, and pricing.
-      ![Credly Badge](https://www.credly.com/path-to-your-badge-image)
-  <br>
+  <li>🏅 <strong>AWS Certified Cloud Practitioner</strong> Earned AWS Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud concepts, security, technology, and pricing<br> <a href="https://www.credly.com/badges/7318d1d1-5899-436a-b85a-a83ccd4ba8de/public_url" target="_blank">View Certificate</a>
   </li>
 </ul>
 
@@ -91,6 +89,7 @@ interested_in:
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ffcc00?style=for-the-badge&logo=openai&logoColor=black)
+![Credly Badge](https://www.credly.com/path-to-your-badge-image)
 
 
 ## 🚀 Featured Projects
