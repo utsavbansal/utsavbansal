@@ -89,8 +89,6 @@ interested_in:
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ffcc00?style=for-the-badge&logo=openai&logoColor=black)
-![Credly Badge](https://www.credly.com/badges/7318d1d1-5899-436a-b85a-a83ccd4ba8de/public_url)
-
 
 ## 🚀 Featured Projects
 
