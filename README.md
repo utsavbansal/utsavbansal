@@ -48,9 +48,6 @@ interested_in:
 </p>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7318d1d1-5899-436a-b85a-a83ccd4ba8de" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <h2>🏆 Achievements:</h2>
 <ul>
   <li>🏆 <strong>GATE 2021:</strong> Secured <strong>All India Rank 965</strong> in GATE CS Paper.</li>
@@ -61,7 +58,9 @@ interested_in:
   <li>🥈 <strong>NPTEL Elite: Programming, Data Structure and Algorithms in Python (IIT Madras)</strong> Honored as <strong>Elite</strong> with an aggregate score of <strong>80%</strong>.<br>
     <a href="https://archive.nptel.ac.in/content/noc/NOC16/SEM2/Ecertificates/106/noc16-cs11/Course/NPTEL16CS1125560037.jpg" target="_blank">View Certificate</a>
   </li>
-  <li>🏅 <strong>AWS Certified Cloud Practitioner</strong> Earned AWS Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud concepts, security, technology, and pricing.<br>
+  <li>🏅 <strong>AWS Certified Cloud Practitioner</strong> Earned AWS Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud concepts, security, technology, and pricing.
+      ![Credly Badge](https://www.credly.com/path-to-your-badge-image)
+  <br>
   </li>
 </ul>
 
