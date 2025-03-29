@@ -48,13 +48,22 @@ interested_in:
 </p>
 
 
-## 🏆 Achievements:
-- 🏆 **GATE 2021:** Secured **All India Rank 965** in GATE CS Paper.
-- 🏆 **GATE 2020:** Secured **All India Rank 1155** in GATE CS Paper.
-- 🥇 **NPTEL ELITE Topper: Programming in CPP (IIT Kharagpur)** Ranked in the **Top 5%** in the Topper list and honored as **Elite** with an aggregate score of **88%**.  
-  [View Certificate](https://archive.nptel.ac.in/content/noc/NOC17/SEM2/Ecertificates/106/noc17-cs24/Course/NPTEL17CS24S2250087171013177.jpg)
-- 🥈 **NPTEL Elite: Programming, DataStructue and Algorithms in Python (IIT Madras)** Honored as **Elite** with an aggregate score of **80%**.  
-  [View Certificate](https://archive.nptel.ac.in/content/noc/NOC16/SEM2/Ecertificates/106/noc16-cs11/Course/NPTEL16CS1125560037.jpg)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7318d1d1-5899-436a-b85a-a83ccd4ba8de" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<h2>🏆 Achievements:</h2>
+<ul>
+  <li>🏆 <strong>GATE 2021:</strong> Secured <strong>All India Rank 965</strong> in GATE CS Paper.</li>
+  <li>🏆 <strong>GATE 2020:</strong> Secured <strong>All India Rank 1155</strong> in GATE CS Paper.</li>
+  <li>🥇 <strong>NPTEL ELITE Topper: Programming in CPP (IIT Kharagpur)</strong> Ranked in the <strong>Top 5%</strong> in the Topper list and honored as <strong>Elite</strong> with an aggregate score of <strong>88%</strong>.<br>
+    <a href="https://archive.nptel.ac.in/content/noc/NOC17/SEM2/Ecertificates/106/noc17-cs24/Course/NPTEL17CS24S2250087171013177.jpg" target="_blank">View Certificate</a>
+  </li>
+  <li>🥈 <strong>NPTEL Elite: Programming, Data Structure and Algorithms in Python (IIT Madras)</strong> Honored as <strong>Elite</strong> with an aggregate score of <strong>80%</strong>.<br>
+    <a href="https://archive.nptel.ac.in/content/noc/NOC16/SEM2/Ecertificates/106/noc16-cs11/Course/NPTEL16CS1125560037.jpg" target="_blank">View Certificate</a>
+  </li>
+  <li>🏅 <strong>AWS Certified Cloud Practitioner</strong> Earned AWS Cloud Practitioner certification, demonstrating foundational knowledge of AWS Cloud concepts, security, technology, and pricing.<br>
+  </li>
+</ul>
 
 
 ## 🛠️ Technologies & Tools
